@@ -1,5 +1,5 @@
 ---
-title: Digital Preservation Southampton: A Blog
+title: A Blog by Digital Preservation Southampton
 ---
 
 # This is my amazing blog
