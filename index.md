@@ -3,6 +3,8 @@ title: A Blog by Digital Preservation Southampton
 ---
 
 ![logo](assets/dps-logo.png)
+
+<img src="assets/dps-logo.png" alt="logo" width="200"/>
 <!--- 
 <img src=https://github.com/laurisasastoque/dps-blog/blob/main/assets/dps-logo.png alt=logo width=300 align=right>
 --->
