@@ -1,6 +1,7 @@
 ---
 title: "Welcome to the DPS Blog"
 date: 2025-05-07
+image: /assets/sdh-logo.png
 ---
 # Welcome to the Digital Preservation Southampton Blog!
 
