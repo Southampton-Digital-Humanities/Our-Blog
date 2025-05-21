@@ -1,1 +1,10 @@
 theme: minima
+title: Home
+description: "A Blog by Southampton Digital Humanities"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+minima:
+  show_excerpts: true
+  nav_pages:
+    - contributors.md
