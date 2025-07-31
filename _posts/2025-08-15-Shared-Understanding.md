@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Shared Understanding of Digital Preservation Needs"
-date: 2025-08-15
+date: 2025-07-31
 image: /assets/sdh-logo.png
 ---
 # Building Shared Understanding of Digital Preservation Needs in Lambeth Palace Library
