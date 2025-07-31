@@ -1,5 +1,6 @@
 theme: minima
 title: Home
+author: "Digital Preservation Southampton"
 description: ""
 plugins:
   - jekyll-feed
