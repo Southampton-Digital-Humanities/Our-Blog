@@ -17,15 +17,42 @@
           {%- endif -%}
         </ul>
       </div>
+    
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
-          {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
-          {%- if site.linkedin_username -%}<li><a href="https://linkedin.com/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a></li>{%- endif -%}
+          {%- if site.github_username -%}
+            <li>
+              <a href="https://github.com/{{ site.github_username | cgi_escape | escape }}">
+                <svg class="svg-icon">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+                </svg>
+                <span class="username">{{ site.github_username | escape }}</span>
+              </a>
+            </li>
+          {%- endif -%}
+          {%- if site.linkedin_username -%}
+            <li>
+              <a href="https://linkedin.com/company/{{ site.linkedin_username | cgi_escape | escape }}">
+                <svg class="svg-icon">
+                  <use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use>
+                </svg>
+                <span class="username">{{ site.linkedin_username | escape }}</span>
+              </a>
+            </li>
+          {%- endif -%}
         </ul>
       </div>
+
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <p class="mailing-list-cta">
+          Want to stay in touch?
+          <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=-XhTSvQpPk2-iWadA62p2A2R7XORnAJHk_uI05meoAdUQkU1TDlEN0w5SE1JUVlQTFo4TDBNNThGWCQlQCN0PWcu"
+             target="_blank" rel="noopener">
+            Subscribe to our mailing list
+          </a>.
+        </p>
       </div>
     </div>
+
   </div>
 </footer>
