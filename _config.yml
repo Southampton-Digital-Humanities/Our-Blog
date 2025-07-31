@@ -4,7 +4,7 @@ author: "Digital Preservation Southampton"
 email: digitalpreservation@soton.ac.uk
 github_username: Southampton-Digital-Humanities
 linkedin_username: digital-preservation-southampton
-description: ""
+description: Blog
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -12,3 +12,4 @@ minima:
   show_excerpts: true
   nav_pages:
     - contributors.md
+    - index.md
