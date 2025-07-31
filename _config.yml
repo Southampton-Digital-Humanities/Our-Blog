@@ -3,7 +3,7 @@ title: Home
 author: "Digital Preservation Southampton"
 email: digitalpreservation@soton.ac.uk
 github_username: Southampton-Digital-Humanities
-linkedin_username: digital-preservation-southampton
+linkedin_username: company/digital-preservation-southampton
 description: ""
 plugins:
   - jekyll-feed
