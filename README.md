@@ -6,9 +6,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-# Southampton Digital Humanities Blog
+# Digital Preservation Southampton Blog
 
-_This is a repository for all blog posts for Southampton Digital Humanities and Digital Preservation Southampton._
+_This is a repository for all blog posts for Digital Preservation Southampton, an enterprise unit embedded within Digital Humanities at the University of Southampton._
 
 </header>
 
@@ -27,7 +27,7 @@ _This is a repository for all blog posts for Southampton Digital Humanities and 
 
 ---
 
-[Contact Digihums](mailto:digitalhumanities@soton.ac.uk) &bull; [Contact DPS](mailto:digitalpreservation@soton.ac.uk)
+[Contact DPS](mailto:digitalpreservation@soton.ac.uk) &bull; [Contact Digital Humanities](mailto:digitalhumanities@soton.ac.uk)
 
 &copy; 2025 University of Southampton &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; Unless otherwise noted, all blog posts, photos, graphics, presentations and other media are published under a [Creative Commons Attribution-NonCommercial](https://creativecommons.org/licenses/by-nc/4.0/) license. This website is made in Jekyll and open source.
 
