@@ -1,6 +1,7 @@
 theme: minima
 title: Home
 author: "Digital Preservation Southampton"
+email: digitalpreservation@soton.ac.uk
 github_username: Southampton-Digital-Humanities
 description: ""
 plugins:
