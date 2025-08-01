@@ -20,6 +20,8 @@ The sessions were not only revealing of the landscape of the digital preservatio
 
 An enhanced understanding of organisational need and the digital preservation landscape equips archival professionals with the tools to advocate for their success both at an organisational level and during the procurement process. As a result of this collaboration, we provided LPL with a detailed report of perceived needs, a scheme for action forward, and an initial scan of digital preservation system providers. Our hope is that these insights will guide further conversation among organisational stakeholders, and contributes to the preparation of LPL to an optimal place for procurement. 
 
-<img style="text-align: center" src="https://github.com/Southampton-Digital-Humanities/dps-blog/blob/main/assets/dps-favicon.png?raw=true" alt="DPS Favicon" width="80" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/Southampton-Digital-Humanities/dps-blog/blob/main/assets/dps-favicon.png?raw=true" alt="DPS Favicon" width="80" />
+</div>
 
 Do you think your team could benefit from a similar process or are you interested to learn more about our work? Request an initial meeting with us at [digitalpreservation@soton.ac.uk](mailto:digitalpreservation@soton.ac.uk)
