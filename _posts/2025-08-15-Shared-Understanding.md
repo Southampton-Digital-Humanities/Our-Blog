@@ -2,6 +2,7 @@
 layout: post
 title: "Building Shared Understanding of Digital Preservation Needs in Lambeth Palace Library"
 date: 2025-07-31
+author: Digital Preservation Southampton Team
 image: /assets/lpl.jpg
 ---
 
